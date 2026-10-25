@@ -1,0 +1,13 @@
+data/
+.ma-relay/
+.env
+.env.*
+!.env.example
+.venv/
+*.pyc
+__pycache__/
+*.log
+.DS_Store
+/preview.png
+/*-preview.png
+/folder-picker.png
